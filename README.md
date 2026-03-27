@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Manus Skill](https://img.shields.io/badge/Manus-Skill-purple.svg)](https://manus.im)
 
-一个用于自动生成个人定制旅行计划 Excel 表格的 Manus Skill
+一个用于自动生成个人定制旅行计划 Excel 表格的 Skill
 
 [English](#english) | [中文](#中文)
 
