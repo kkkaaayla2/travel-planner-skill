@@ -37,20 +37,6 @@
 - "制作一个[目的地][天数]天的旅行计划表"
 - 或直接上传旅行笔记、Excel、PDF 或网页链接，Manus 会自动解析并生成计划。
 
-### 📁 项目结构
-
-```
-travel-planner-skill/
-├── SKILL.md                    # Manus Skill 主文档，包含所有提示词和逻辑
-├── README.md                   # 项目说明（本文件）
-└── LICENSE                     # MIT 许可证
-```
-
-### ⚠️ 注意事项
-
-- 本 Skill 依赖于部分免费 API（如 Frankfurter 汇率、Open-Meteo 天气）和网页搜索功能。
-- 生成的 Excel 文件将保存在 `/mnt/user-data/outputs/` 目录下。
-
 ### 🤝 贡献
 
 欢迎提交 Pull Request 或创建 Issue 参与项目共建。
@@ -84,20 +70,6 @@ Simply mention the following when interacting with Manus to trigger this Skill:
 - "Help me plan a trip to [Destination]"
 - "Create a [Duration]-day travel plan for [Destination]"
 - Or directly upload travel notes, Excel, PDF, or web links, and Manus will automatically parse and generate the plan.
-
-### 📁 Project Structure
-
-```
-travel-planner-skill/
-├── SKILL.md                    # Main Manus Skill document containing all prompts and logic
-├── README.md                   # Project documentation (this file)
-└── LICENSE                     # MIT License
-```
-
-### ⚠️ Disclaimer
-
-- This Skill relies on some free APIs (e.g., Frankfurter for exchange rates, Open-Meteo for weather) and web search functionalities.
-- The generated Excel file will be saved in the `/mnt/user-data/outputs/` directory.
 
 ### 🤝 Contributing
 
