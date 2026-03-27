@@ -15,26 +15,26 @@
 
 ## 中文
 
-### 🌟 功能特性
+### 🌟 为什么你需要这个 Skill？
 
-- 🗺️ **智能行程规划** - 根据目的地、天数和个人偏好自动生成每日行程
-- 🏨 **住宿推荐** - 提供中高端酒店推荐及实时价格参考
-- ✈️ **机票参考** - 自动搜索并整理去程、回程及中转航班信息
-- 🎒 **动态物品清单** - 根据目的地、季节和行程特点智能生成行李清单
-- 🏛️ **深度景点介绍** - 提供详细的景点历史背景、打卡路线和实用信息
-- 📊 **精美 Excel 输出** - 自动生成包含 5 个 Sheet 的专业旅行计划表，排版精美
+**爱旅游的J人有福了！**
+
+**和我一样有刁钻的旅游偏好的人更有福了！**
+
+J人一定能懂每个行程都要精密计算安排时间、反复在Google map、xhs、预定网站反复跳转确认的痛苦。
+
+这个skill会先询问用户行程偏好，让我选择了希望去的城市和景点。然后完美生成了有5个sheet（行程、住宿推荐、机票参考、物品清单、景点介绍）的Excel表！
+
+所有的行程都包括详细的、具有时效性的导航路线，例如：
+
+> **基督城大教堂广场（Cathedral Square）**
+> 打卡路线：广场中心 -> 基督城大教堂（正在修复中，外观拍照）-> 过渡纸板教堂（Cardboard Cathedral）内部参观
+
+**J人狂喜！**
+
+也有朋友问我，为什么不直接用携程/圆周旅迹AI规划呢？我说你一定是个P人。虽然他们在产品层面上，有更好的交互体验和图片介绍，但是只给出景点和建议游玩时间，而不给出具体的时间段；完全不考虑我的个人偏好，一天6个行程，我看一眼就晕过去了；生成的一长串富文本其实还不如Excel结构化和细节丰富，而且国外容易信号差，我必须有本地文件才安心。
 
 ### 🚀 快速开始
-
-#### 安装
-
-**作为 Manus Skill 安装：**
-
-```bash
-# 克隆仓库到 Manus skills 目录
-cd ~/skills
-git clone https://github.com/kkkaaayla2/travel-planner-skill.git travel-planner
-```
 
 #### 使用方法
 
@@ -70,26 +70,26 @@ travel-planner-skill/
 
 ## English
 
-### 🌟 Features
+### 🌟 Why You Need This Skill
 
-- 🗺️ **Smart Itinerary Planning** - Automatically generates daily itineraries based on destination, duration, and personal preferences.
-- 🏨 **Accommodation Recommendations** - Provides mid-to-high-end hotel recommendations with real-time price references.
-- ✈️ **Flight References** - Automatically searches and organizes outbound, return, and transit flight information.
-- 🎒 **Dynamic Packing List** - Intelligently generates a packing list based on destination, season, and itinerary characteristics.
-- 🏛️ **In-depth Attraction Guides** - Offers detailed historical backgrounds, photo routes, and practical information for attractions.
-- 📊 **Beautiful Excel Output** - Automatically generates a professional travel plan spreadsheet with 5 beautifully formatted sheets.
+**Good news for travel-loving 'J' personalities (Judging in MBTI)!**
+
+**Even better news for those who have picky travel preferences like me!**
+
+'J' personalities will definitely understand the pain of having to precisely calculate and schedule time for every itinerary, and repeatedly jumping between Google Maps, social media, and booking websites to confirm details.
+
+This skill will first ask about the user's travel preferences, letting me choose the cities and attractions I want to visit. Then it perfectly generates an Excel spreadsheet with 5 sheets (Itinerary, Accommodation Recommendations, Flight References, Packing List, Attraction Guides)!
+
+All itineraries include detailed, time-sensitive navigation routes, for example:
+
+> **Christchurch Cathedral Square**
+> Photo Route: Square Center -> Christchurch Cathedral (under restoration, exterior photo) -> Cardboard Cathedral (interior visit)
+
+**'J' personalities rejoice!**
+
+Some friends also asked me, why not just use other AI travel planners? I said you must be a 'P' personality (Perceiving). Although they might have better interactive experiences and picture introductions at the product level, they only provide attractions and suggested play times, without giving specific time slots; they completely ignore my personal preferences, 6 itineraries a day, I pass out just looking at it; the long string of rich text generated is actually not as structured and detail-rich as Excel, and the signal is often poor abroad, I must have a local file to feel at ease.
 
 ### 🚀 Quick Start
-
-#### Installation
-
-**Install as Manus Skill:**
-
-```bash
-# Clone to Manus skills directory
-cd ~/skills
-git clone https://github.com/kkkaaayla2/travel-planner-skill.git travel-planner
-```
 
 #### Usage
 
